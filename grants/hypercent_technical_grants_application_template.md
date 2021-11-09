@@ -77,7 +77,7 @@ As these conditions will soon be met in the very near future, it is time for us 
 >- Structure: Co-Founder / Head Of Development
 >- Background: SupplyBlockchain CTO, European Digital Exchange - Head of Development, Qualitest - Senior Full Stack Development, Genesis Digital - Senior Java Engineer, StarCluster - Full Stack Developer
 >- About: A powerhouse full stack developer that has enough experience to take any project on-board. With great enthusiasm and humbleness, Andrei has Co-founded multiple ventures and has been in charge of development for the SupplyBlockchain Network, Tailpath and more. As long as Andrei is part of the team the tech development will be one of the biggest strenghts.
->- GitHub:
+>- GitHub: https://github.com/nzpopa
 >- LinkedIn: https://www.linkedin.com/in/ndreipopa/
 
 
@@ -85,7 +85,6 @@ As these conditions will soon be met in the very near future, it is time for us 
 >- Structure: Tech Advisor 
 >- Background: ZoidPay CEO / Cardanti Co-Founder / Reworldy
 >- About: Our Tech Advisor is the founder and developer of ZoidPay, a solution that allows you to shop anything from anywhere using digital assets through the chrome extension app or by using a physical Mastercard. The business and development experience coming from Eduard's side is an important asset of Hypercent's future.
->- GitHub:
 >- LinkedIn: https://www.linkedin.com/in/eduardoneci/
 
 
